@@ -43,15 +43,6 @@ html, body {
     transform: translateY(-5px);
 }
 
-form input {
-    margin: 15px;
-    padding: 10px;
-    width: 150px;
-    height: 40px;
-    outline: none;
-    font-size: 19px;
-}
-
 .container {
     display: flex;
     justify-content: center;
