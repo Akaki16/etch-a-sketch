@@ -1,6 +1,8 @@
 # Etch a Sketch
 
-This project is created with Vanilla JavaScript
+very simple drawing app made with Vanilla JavaScript
+
+[live demo](https://akaki16.github.io/etch-a-sketch/)
 
 ### Running documentation
 
